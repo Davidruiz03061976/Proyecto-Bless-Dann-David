@@ -1,0 +1,19 @@
+.bottomNav {
+    background-color: #115bc2;
+    height: 75px;
+    width: 100%;
+}
+.navBText {
+    text-align: center;
+    font-weight: 900;
+    color: #93CBFF !important;
+    font-size: 18px;
+    
+}
+.navBText:hover {
+    color: #ffffff !important;
+}
+.navBText:active {
+    color: #a53333 !important;
+    opacity: 1;
+}
